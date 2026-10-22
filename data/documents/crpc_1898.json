@@ -1,0 +1,37 @@
+{
+  "document_id": "CRPC-1898",
+  "title": "Code of Criminal Procedure, 1898 (Act No. V of 1898)",
+  "short_title": "CrPC 1898",
+  "jurisdiction": "Pakistan",
+  "source_type": "legislation",
+  "source_url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apg%3D-sg-jjjjjjjjjjjjj",
+  "publication_date": "1898-03-22",
+  "verification_status": "verified_statute",
+  "description": "The procedural law governing criminal investigation, FIR registration, inquiry, trial, and bail in Pakistan.",
+  "sections": [
+    {
+      "section_number": "154",
+      "heading": "Information in cognizable cases (First Information Report - FIR)",
+      "text": "Every information relating to the commission of a cognizable offence if given orally to an officer in charge of a police station, shall be reduced to writing by him or under his direction, and be read over to the informant; and every such information, whether given in writing or reduced to writing as aforesaid, shall be signed by the person giving it, and the substance thereof shall be entered in a book to be kept by such officer.",
+      "keywords": ["FIR", "first information report", "police complaint", "cognizable offence", "police station"]
+    },
+    {
+      "section_number": "496",
+      "heading": "In what cases bail to be taken (Bailable offences)",
+      "text": "When any person other than a person accused of a non-bailable offence is arrested or detained without warrant by an officer in charge of a police station, or appears or is brought before a Court, and is prepared at any time while in the custody of such officer or at any stage of the proceedings before such Court to give bail, such person shall be released on bail.",
+      "keywords": ["bail", "bailable offence", "release on bail", "right to bail"]
+    },
+    {
+      "section_number": "497",
+      "heading": "When bail may be taken in case of non-bailable offence",
+      "text": "When any person accused of any non-bailable offence is arrested or detained without warrant or appears or is brought before a Court, he may be released on bail, but he shall not be so released if there appear reasonable grounds for believing that he has been guilty of an offence punishable with death or imprisonment for life or imprisonment for 10 years, except that the Court may direct that any person under the age of sixteen years or any woman or any sick or infirm person accused of such an offence be released on bail.",
+      "keywords": ["non-bailable bail", "post-arrest bail", "statutory bail", "bail conditions"]
+    },
+    {
+      "section_number": "498",
+      "heading": "Power to direct admission to bail or reduction of bail (Pre-arrest / anticipatory bail)",
+      "text": "The amount of every bond executed under this Chapter shall be fixed with due regard to the circumstances of the case, and shall not be excessive; and the High Court or Court of Session may, in any case, whether there be an appeal on conviction or not, direct that any person be admitted to bail, or that the bail required by a police officer or Magistrate be reduced.",
+      "keywords": ["anticipatory bail", "pre-arrest bail", "session court", "high court bail"]
+    }
+  ]
+}

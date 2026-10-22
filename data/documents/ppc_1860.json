@@ -1,0 +1,73 @@
+{
+  "document_id": "PPC-1860",
+  "title": "Pakistan Penal Code (Act No. XLV of 1860)",
+  "short_title": "PPC 1860",
+  "jurisdiction": "Pakistan",
+  "source_type": "legislation",
+  "source_url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apk%3D-sg-jjjjjjjjjjjjj",
+  "publication_date": "1860-10-06",
+  "verification_status": "verified_statute",
+  "description": "The general penal code of Pakistan providing criminal definitions and penalties.",
+  "sections": [
+    {
+      "section_number": "292",
+      "heading": "Sale, etc., of obscene books, etc.",
+      "text": "Whoever sells, lets to hire, distributes, publicly exhibits or in any manner puts into circulation any obscene book, pamphlet, paper, drawing, painting, representation or figure shall be punished with imprisonment of either description for a term which may extend to three months, or with fine, or with both.",
+      "keywords": ["obscenity", "obscene material", "distribution"]
+    },
+    {
+      "section_number": "302",
+      "heading": "Punishment of qatl-i-amd (Premeditated Murder)",
+      "text": "Whoever commits qatl-i-amd shall, subject to the provisions of this Chapter be punished with death as qisas; or punished with death or imprisonment for life as ta'zir; or punished with imprisonment for a term which may extend to twenty-five years where qisas is not applicable under Injunctions of Islam.",
+      "keywords": ["murder", "qatl-i-amd", "homicide", "capital punishment"]
+    },
+    {
+      "section_number": "375",
+      "heading": "Rape",
+      "text": "A man is said to commit rape who has sexual intercourse with a woman under circumstances falling under any of the descriptions: against her will, without her consent, with consent obtained by putting her in fear of death or of hurt, or with consent given under mistaken belief of lawful marriage.",
+      "keywords": ["rape", "sexual violence", "consent"]
+    },
+    {
+      "section_number": "415",
+      "heading": "Cheating",
+      "text": "Whoever, by deceiving any person, fraudulently or dishonestly induces the person so deceived to deliver any property to any person, or to consent that any person shall retain any property, or intentionally induces the person so deceived to do or omit to do anything which he would not do or omit if he were not so deceived, is said to 'cheat'.",
+      "keywords": ["cheating", "fraud", "deception"]
+    },
+    {
+      "section_number": "420",
+      "heading": "Cheating and dishonestly inducing delivery of property",
+      "text": "Whoever cheats and thereby dishonestly induces the person deceived to deliver any property to any person, or to make, alter or destroy the whole or any part of a valuable security, shall be punished with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.",
+      "keywords": ["fraud", "420", "financial deception", "cheating property"]
+    },
+    {
+      "section_number": "499",
+      "heading": "Defamation",
+      "text": "Whoever by words either spoken or intended to be read, or by signs or by visible representations, makes or publishes any imputation concerning any person intending to harm, or knowing or having reason to believe that such imputation will harm, the reputation of such person, is said, except in the cases hereinafter excepted, to defame that person.",
+      "keywords": ["defamation", "slander", "libel", "reputation harm"]
+    },
+    {
+      "section_number": "500",
+      "heading": "Punishment for defamation",
+      "text": "Whoever defames another shall be punished with simple imprisonment for a term which may extend to two years, or with fine, or with both.",
+      "keywords": ["defamation penalty", "libel punishment"]
+    },
+    {
+      "section_number": "503",
+      "heading": "Criminal intimidation",
+      "text": "Whoever threatens another with any injury to his person, reputation or property, or to the person or reputation of any one in whom that person is interested, with intent to cause alarm to that person, commits criminal intimidation.",
+      "keywords": ["criminal intimidation", "threats", "blackmail", "alarm"]
+    },
+    {
+      "section_number": "506",
+      "heading": "Punishment for criminal intimidation",
+      "text": "Whoever commits the offence of criminal intimidation shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both; and if the threat be to cause death or grievous hurt, with imprisonment for a term which may extend to seven years.",
+      "keywords": ["threat punishment", "intimidation penalty"]
+    },
+    {
+      "section_number": "509",
+      "heading": "Insulting the modesty of a woman or harassment",
+      "text": "Whoever, intending to insult the modesty of any woman, utters any word, makes any sound or gesture, or exhibits any object, intending that such word or sound shall be heard, or that such gesture or object shall be seen, by such woman, or intrudes upon the privacy of such woman, shall be punished with imprisonment which may extend to three years, or with fine up to five hundred thousand rupees, or with both.",
+      "keywords": ["harassment of woman", "modesty of woman", "eve teasing", "public harassment", "privacy intrusion"]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "document_id": "CONST-1973",
+  "title": "Constitution of the Islamic Republic of Pakistan, 1973",
+  "short_title": "Constitution 1973",
+  "jurisdiction": "Pakistan",
+  "source_type": "legislation",
+  "source_url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-cJA%3D%3D-sg-jjjjjjjjjjjjj",
+  "publication_date": "1973-04-12",
+  "verification_status": "verified_statute",
+  "description": "The supreme law of Pakistan establishing fundamental rights, state institutions, and federal structure.",
+  "sections": [
+    {
+      "section_number": "Article 4",
+      "heading": "Right of individuals to be dealt with in accordance with law, etc.",
+      "text": "To enjoy the protection of law and to be treated in accordance with law is the inalienable right of every citizen, wherever he may be, and of every other person for the time being within Pakistan.",
+      "keywords": ["rule of law", "due process", "citizen protection"]
+    },
+    {
+      "section_number": "Article 9",
+      "heading": "Security of person",
+      "text": "No person shall be deprived of life or liberty save in accordance with law.",
+      "keywords": ["right to life", "personal liberty", "security"]
+    },
+    {
+      "section_number": "Article 10A",
+      "heading": "Right to fair trial",
+      "text": "For the determination of his civil rights and obligations or in any criminal charge against him a person shall be entitled to a fair trial and due process.",
+      "keywords": ["fair trial", "due process", "criminal defense"]
+    },
+    {
+      "section_number": "Article 14",
+      "heading": "Inviolability of dignity of man, etc.",
+      "text": "The dignity of man and, subject to law, the privacy of home, shall be inviolable. No person shall be subjected to torture for the purpose of extracting evidence.",
+      "keywords": ["human dignity", "privacy", "inviolability", "prohibition of torture"]
+    },
+    {
+      "section_number": "Article 19",
+      "heading": "Freedom of speech, etc.",
+      "text": "Every citizen shall have the right to freedom of speech and expression, and there shall be freedom of the press, subject to any reasonable restrictions imposed by law in the interest of the glory of Islam or the integrity, security or defence of Pakistan or any part thereof, friendly relations with foreign States, public order, decency or morality, or in relation to contempt of court, commission of or incitement to an offence.",
+      "keywords": ["freedom of speech", "freedom of press", "expression", "reasonable restrictions"]
+    },
+    {
+      "section_number": "Article 19A",
+      "heading": "Right to information",
+      "text": "Every citizen shall have the right to have access to information in all matters of public importance subject to regulation and reasonable restrictions imposed by law.",
+      "keywords": ["right to information", "transparency", "public records"]
+    },
+    {
+      "section_number": "Article 25",
+      "heading": "Equality of citizens",
+      "text": "All citizens are equal before law and are entitled to equal protection of law. There shall be no discrimination on the basis of sex. Nothing in this Article shall prevent the State from making any special provision for the protection of women and children.",
+      "keywords": ["equality", "equal protection", "gender equality", "non-discrimination"]
+    }
+  ]
+}

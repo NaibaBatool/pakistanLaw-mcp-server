@@ -1,0 +1,37 @@
+{
+  "document_id": "HARASSMENT-WORKPLACE-2010",
+  "title": "Protection Against Harassment of Women at the Workplace Act, 2010 (Act No. IV of 2010)",
+  "short_title": "Workplace Harassment Act 2010",
+  "jurisdiction": "Pakistan",
+  "source_type": "legislation",
+  "source_url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apc%3D-sg-jjjjjjjjjjjjj",
+  "publication_date": "2010-03-11",
+  "verification_status": "verified_statute",
+  "description": "An Act to make provision for the protection against harassment of women at the workplace, extended by the 2022 amendment to cover all employees regardless of gender.",
+  "sections": [
+    {
+      "section_number": "2(h)",
+      "heading": "Definition of harassment",
+      "text": "Harassment means any unwelcome sexual advance, request for sexual favors or other verbal or written communication or physical conduct of a sexual nature or sexually demeaning attitudes, causing interference with work performance or creating an intimidating, hostile or offensive work environment, or the attempt to punish the complainant for refusal to comply with such a request or is made a condition for employment.",
+      "keywords": ["workplace harassment", "sexual harassment", "hostile environment", "unwelcome conduct"]
+    },
+    {
+      "section_number": "3",
+      "heading": "Inquiry Committee",
+      "text": "Each organization shall constitute an Inquiry Committee within thirty days of the enactment of this Act to inquire into complaints under this Act. The Committee shall consist of three members of whom at least one member shall be a woman.",
+      "keywords": ["inquiry committee", "workplace committee", "complaint mechanism"]
+    },
+    {
+      "section_number": "4",
+      "heading": "Procedure for holding inquiry and penalties",
+      "text": "The Inquiry Committee shall submit findings and recommendations to the Competent Authority. Penalties may include minor penalties (censure, withholding promotion) or major penalties (recovery of compensation, demotion, compulsory retirement, or dismissal from service).",
+      "keywords": ["penalties", "inquiry procedure", "dismissal", "workplace compensation"]
+    },
+    {
+      "section_number": "8",
+      "heading": "Ombudsman",
+      "text": "The Federal or Provincial Government shall appoint an Ombudsman at the Federal and Provincial levels to hear appeals and complaints against workplace harassment directly from aggrieved individuals.",
+      "keywords": ["ombudsman", "federal ombudsman", "provincial ombudsman", "harassment appeal"]
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "document_id": "PECA-2016",
+  "title": "Prevention of Electronic Crimes Act, 2016 (Act No. XL of 2016)",
+  "short_title": "PECA 2016",
+  "jurisdiction": "Pakistan (Federal)",
+  "source_type": "legislation",
+  "source_url": "https://pakistancode.gov.pk/english/UY2FqaJw1-apaUY2Fqa-apU%3D-sg-jjjjjjjjjjjjj",
+  "publication_date": "2016-08-19",
+  "verification_status": "verified_statute",
+  "description": "An Act to prevent unauthorized acts with respect to information systems and provide for related offences and international cooperation.",
+  "sections": [
+    {
+      "section_number": "3",
+      "heading": "Unauthorized access to information system or data",
+      "text": "Whoever with dishonest intention gains unauthorized access to any information system or data shall be punished with imprisonment for a term which may extend to three months or with fine which may extend to fifty thousand rupees or with both.",
+      "keywords": ["unauthorized access", "hacking", "data access"]
+    },
+    {
+      "section_number": "4",
+      "heading": "Unauthorized copying or transmission of data",
+      "text": "Whoever with dishonest intention and without authorization copies or otherwise transmits or causes to be transmitted any data shall be punished with imprisonment for a term which may extend to six months or with fine which may extend to one hundred thousand rupees or with both.",
+      "keywords": ["data theft", "copying data", "transmission"]
+    },
+    {
+      "section_number": "10",
+      "heading": "Cyber terrorism",
+      "text": "Whoever commits or threatens to commit any of the offences under section 6, 7, 8 or 9, where the motive is to coerce, intimidate or create fear in the government or the public or an advance sectarian, ethnic or religious cause, shall be punished with imprisonment of either description for a term which may extend to fourteen years or with fine which may extend to fifty million rupees or with both.",
+      "keywords": ["cyber terrorism", "terrorism", "critical infrastructure"]
+    },
+    {
+      "section_number": "13",
+      "heading": "Electronic forgery",
+      "text": "Whoever for fraudulent or dishonest purposes makes or alters any electronic document or part thereof shall be punished with imprisonment for a term which may extend to three years or with fine which may extend to two hundred and fifty thousand rupees or with both.",
+      "keywords": ["electronic forgery", "fake document", "forgery"]
+    },
+    {
+      "section_number": "14",
+      "heading": "Electronic fraud",
+      "text": "Whoever with intention for wrongful gain or wrongful loss, interferes with or uses any information system, device or data, or induces any person to enter into a transaction, shall be punished with imprisonment for a term which may extend to two years or with fine which may extend to ten million rupees or with both.",
+      "keywords": ["electronic fraud", "online scam", "financial fraud"]
+    },
+    {
+      "section_number": "16",
+      "heading": "Unauthorized use of identity information",
+      "text": "Whoever obtains, sells, possesses, transmits or uses another person's identity information without authorization shall be punished with imprisonment for a term which may extend to three years or with fine which may extend to five million rupees or with both.",
+      "keywords": ["identity theft", "fake profile", "identity fraud", "impersonation"]
+    },
+    {
+      "section_number": "20",
+      "heading": "Offences against dignity of a natural person",
+      "text": "Whoever intentionally and publicly exhibits or displays or transmits any information through any information system, which he knows to be false, and intimates or harms the reputation or privacy of a natural person, shall be punished with imprisonment for a term which may extend to three years or with fine which may extend to one million rupees or with both.",
+      "keywords": ["defamation", "online harassment", "reputation", "privacy violation", "dignity"]
+    },
+    {
+      "section_number": "21",
+      "heading": "Offences against modesty of a natural person and minor",
+      "text": "Whoever intentionally and publicly displays or transmits any information with a view to harming the modesty or privacy of any natural person, or superimposing a photograph onto an obscene image, shall be punished with imprisonment for a term which may extend to five years or with fine which may extend to five million rupees or with both. If the victim is a minor, the imprisonment may extend to seven years with fine which may extend to five million rupees.",
+      "keywords": ["cyber harassment", "modesty", "blackmail", "non-consensual imagery", "minor protection", "intimate images"]
+    },
+    {
+      "section_number": "24",
+      "heading": "Cyber stalking",
+      "text": "Whoever with the intent to coerce, intimidate, or harass any person, uses information system or service to repeatedly follow, contact, monitor or spy upon a person or sends unsolicited communications shall be punished with imprisonment for a term which may extend to three years or with fine which may extend to one million rupees or with both.",
+      "keywords": ["cyber stalking", "stalking", "unsolicited messages", "monitoring", "harassment"]
+    }
+  ]
+}
