@@ -214,6 +214,7 @@ All 26 tests run offline without requiring paid API tokens:
 6. **Statutory Disclaimers**: All responses clearly clarify that the platform provides educational legal information, not personalized legal advice or representation.
 
 ---
+<img width="1312" height="1199" alt="Pakistan Law AI Workflow Infographic" src="https://github.com/user-attachments/assets/5904d3aa-b826-4cb0-a42c-9f3a8d65330b" />
 
 ## 9. Official Pakistani Legal References
 - **The Pakistan Code**: [https://pakistancode.gov.pk](https://pakistancode.gov.pk)
